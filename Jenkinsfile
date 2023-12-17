@@ -5,7 +5,7 @@ pipeline {
             steps {
     
                 sh """
-                echo "Hello"
+                echo "Hello from test"
                 ls 
                 """
                 }
